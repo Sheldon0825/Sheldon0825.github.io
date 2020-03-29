@@ -4,15 +4,15 @@ var config = {
     // 每句话尽量不要超过15个字,不然展示效果可能不太好
     texts: [
         "待疫情过后",      //这里,每句话结尾的最后一个逗号必须是英文的哦!! 很重要哦!!
-        "我们去吃",  // 同上...
-        "牛油排骨生蚝老罗串串火锅",
-        "哦对了",
+        "我们一起去吃",  // 同上...
+        "牛油 排骨 生蚝 老罗 串串 火锅",
+        "哦 对了",
         "还要去玩密室逃脱",
         "再去花园散散步吧",
         "只因有你",
         "生活如此多娇",
         "最后",
-        "高李英 小童鞋",
+        "高李英 小可爱",
         "生日快乐",
     ],
     /**
@@ -25,17 +25,17 @@ var config = {
      * Tip: 图片最好用正方形or接近正方形, 看起来效果更好
      */
     imgs: {
-        "高李英 小童鞋": "./imgs/xiaokeai.png",
+        "高李英 小可爱": "./imgs/xiaokeai.png",
         // "今天是你的生日": "./imgs/birthday.jpg",
     },
     // 按钮文字描述, 以下是默认的按钮文字，英文的，您可以改成你喜欢的文字
     desc: {
         turn_on: "试着点一下？",
-        play: "来电音乐？",
-        bannar_coming: "来电装饰？",
-        balloons_flying: "好像少点东西",
-        cake_fadein: "蛋糕？",
-        light_candle: "蜡烛？",
+        play: "来点音乐？",
+        bannar_coming: "来点装饰？",
+        balloons_flying: "好像少了点东西？",
+        cake_fadein: "蛋糕",
+        light_candle: "蜡烛",
         wish_message: "生日快乐",
         story: "A MESSAGE FOR YOU",
     }
